@@ -1,0 +1,90 @@
+1,Intel Core i3-10100,x86,6 MB,3.6,700.00,Um processador acessivel com consumo baixo e desempenho basico para jogos leves,jogos,baixo,baixo,acessivel
+2,AMD Athlon 3000G,x86,5 MB,3.5,400.00,Processador economico e de baixo consumo,ideal para jogos menos exigentes,jogos,baixo,baixo,alto investimento
+3,Intel Core i3-12100,x86,6 MB,4.3,850.00,Bom desempenho em jogos com baixo consumo de energia,jogos,baixo,medio,acessivel
+4,AMD Ryzen 3 3200G,x86,4 MB,4.0,900.00,Otimo para jogos com graficos medios e baixo consumo,jogos,baixo,medio,alto investimento
+5,Intel Core i5-10400,x86,12 MB,4.3,1000.00,Desempenho robusto com baixo consumo de energia para jogos,jogos,baixo,alto,acessivel
+6,AMD Ryzen 5 3400G,x86,6 MB,4.2,1200.00,Excelente para jogos de alta performance e baixo consumo,jogos,baixo,alto,alto investimento
+7,Intel Core i3-10105,x86,6 MB,3.7,600.00,Consumo medio com bom desempenho para jogos basicos,jogos,medio,baixo,acessivel
+8,AMD Ryzen 5 2600,x86,16 MB,3.9,1000.00,Processador de medio desempenho e medio consumo,ideal para jogos,jogos,medio,baixo,alto investimento
+9,Intel Core i5-11400F,x86,12 MB,4.4,1300.00,Desempenho medio para jogos com consumo moderado de energia,jogos,medio,medio,acessivel
+10,AMD Ryzen 5 3600,x86,32 MB,4.2,1500.00,Excelente custo-beneficio com desempenho medio e consumo moderado,jogos,medio,medio,alto investimento
+11,Intel Core i7-10700,x86,16 MB,4.8,2000.00,Desempenho alto com consumo medio para jogos exigentes,jogos,medio,alto,acessivel
+12,AMD Ryzen 7 3700X,x86,32 MB,4.4,2500.00,Otima escolha para jogos avancados com consumo moderado,jogos,medio,alto,alto investimento
+13,Intel Core i5-11600K,x86,12 MB,4.9,1800.00,Consumo alto com desempenho basico para jogos,jogos,alto,baixo,acessivel
+14,AMD Ryzen 5 5600X,x86,32 MB,4.6,2200.00,Processador de alto consumo e desempenho basico,ideal para jogos menos intensivos,jogos,alto,baixo,alto investimento
+15,Intel Core i7-11700K,x86,16 MB,5.0,2800.00,Alta performance para jogos com alto consumo de energia,jogos,alto,medio,acessivel
+16,AMD Ryzen 9 5900X,x86,64 MB,4.8,3500.00,Processador topo de linha com consumo alto e desempenho medio,jogos,alto,medio,alto investimento
+17,Intel Core i9-10900K,x86,20 MB,5.3,4000.00,Maxima performance em jogos com alto consumo de energia,jogos,alto,alto,acessivel
+18,AMD Ryzen 9 5950X,x86,64 MB,4.9,4800.00,Melhor desempenho para jogos exigentes com alto consumo,jogos,alto,alto,alto investimento
+19,Intel Atom x5-E8000,x86,2 MB,1.04,300.00,Um processador acessivel com consumo baixo e desempenho basico para dispositivos IoT simples,IoT,baixo,baixo,acessivel
+20,ARM Cortex-M4,ARM,512 KB,0.84,50.00,Processador de baixo custo e baixo consumo,ideal para aplicacoes de IoT basicas,IoT,baixo,baixo,alto investimento
+21,Intel Celeron J4005,x86,4 MB,2.7,400.00,Bom desempenho em IoT com baixo consumo de energia,IoT,baixo,medio,acessivel
+22,ARM Cortex-A53,ARM,1 MB,1.2,200.00,Otimo para dispositivos IoT com graficos medios e baixo consumo,IoT,baixo,medio,alto investimento
+23,Intel Pentium Silver N5000,x86,4 MB,2.7,500.00,Desempenho robusto com baixo consumo de energia para IoT,IoT,baixo,alto,acessivel
+24,ARM Cortex-A72,ARM,2 MB,2.5,300.00,Excelente para dispositivos IoT de alta performance e baixo consumo,IoT,baixo,alto,alto investimento
+25,Intel Celeron N4000,x86,4 MB,2.6,350.00,Consumo medio com bom desempenho para dispositivos IoT basicos,IoT,medio,baixo,acessivel
+26,ARM Cortex-M7,ARM,1 MB,0.8,100.00,Processador de medio desempenho e medio consumo,ideal para IoT,IoT,medio,baixo,alto investimento
+27,Intel Pentium J5005,x86,4 MB,2.8,450.00,Desempenho medio para IoT com consumo moderado de energia,IoT,medio,medio,acessivel
+28,ARM Cortex-A76,ARM,1 MB,3.0,600.00,Excelente custo-beneficio com desempenho medio e consumo moderado,IoT,medio,medio,alto investimento
+29,Intel Core m3-8100Y,x86,4 MB,3.4,1200.00,Desempenho alto com consumo medio para dispositivos IoT exigentes,IoT,medio,alto,acessivel
+30,ARM Cortex-A57,ARM,2 MB,2.0,400.00,Otima escolha para IoT avancados com consumo moderado,IoT,medio,alto,alto investimento
+31,Intel Core i3-7100U,x86,4 MB,2.4,600.00,Consumo alto com desempenho basico para dispositivos IoT,IoT,alto,baixo,acessivel
+32,ARM Cortex-A55,ARM,2 MB,1.8,250.00,Processador de alto consumo e desempenho basico,ideal para IoT menos intensivos,IoT,alto,baixo,alto investimento
+33,Intel Core i5-7300U,x86,3 MB,3.5,1500.00,Alta performance para dispositivos IoT com alto consumo de energia,IoT,alto,medio,acessivel
+34,ARM Cortex-A73,ARM,1 MB,2.8,500.00,Processador topo de linha com consumo alto e desempenho medio,IoT,alto,medio,alto investimento
+35,Intel Core i7-7600U,x86,4 MB,3.9,2000.00,Maxima performance em dispositivos IoT com alto consumo de energia,IoT,alto,alto,acessivel
+36,ARM Cortex-X1,ARM,2 MB,3.2,700.00,Melhor desempenho para IoT exigentes com alto consumo,IoT,alto,alto,alto investimento
+37,Intel Core i3-9100F,x86,6MB,3.6,500.00,Baixo consumo;baixo desempenho e custo acessivel,inteligencia artificial,baixo,baixo,acessivel
+38,AMD Athlon 3000G,x86,5MB,3.5,450.00,Baixo consumo;baixo desempenho e alto investimento,inteligencia artificial,baixo,baixo,alto investimento
+39,Intel Core i5-9400F,x86,9MB,2.9,800.00,Baixo consumo;medio desempenho e custo acessivel,inteligencia artificial,baixo,medio,acessivel
+40,AMD Ryzen 3 3300X,x86,16MB,3.8,950.00,Baixo consumo;medio desempenho e alto investimento,inteligencia artificial,baixo,medio,alto investimento
+41,Intel Core i7-9700K,x86,12MB,3.6,1500.00,Baixo consumo;alto desempenho e custo acessivel,inteligencia artificial,baixo,alto,acessivel
+42,AMD Ryzen 5 3600X,x86,35MB,3.8,1600.00,Baixo consumo;alto desempenho e alto investimento,inteligencia artificial,baixo,alto,alto investimento
+43,Intel Pentium Gold G5400,x86,4MB,3.7,300.00,Medio consumo;baixo desempenho e custo acessivel,inteligencia artificial,medio,baixo,acessivel
+44,AMD Ryzen 3 3200G,x86,6MB,3.6,400.00,Medio consumo;baixo desempenho e alto investimento,inteligencia artificial,medio,baixo,alto investimento
+45,Intel Core i3-10100F,x86,6MB,3.6,650.00,Medio consumo;medio desempenho e custo acessivel,inteligencia artificial,medio,medio,acessivel
+46,AMD Ryzen 5 3400G,x86,6MB,3.7,850.00,Medio consumo;medio desempenho e alto investimento,inteligencia artificial,medio,medio,alto investimento
+47,Intel Core i5-10400F,x86,12MB,2.9,1100.00,Medio consumo;alto desempenho e custo acessivel,inteligencia artificial,medio,alto,acessivel
+48,AMD Ryzen 7 3700X,x86,36MB,3.6,1800.00,Medio consumo,alto desempenho e alto investimento,inteligencia artificial,medio,alto,alto investimento
+49,Intel Core i3-8350K,x86,8MB,4.0,700.00,Alto consumo,baixo desempenho e custo acessivel,inteligencia artificial,alto,baixo,acessivel
+50,AMD Ryzen 5 1500X,x86,18MB,3.5,950.00,Alto consumo,baixo desempenho e alto investimento,inteligencia artificial,alto,baixo,alto investimento
+51,Intel Core i5-9600K,x86,9MB,3.7,1200.00,Alto consumo;medio desempenho e custo acessivel,inteligencia artificial,alto,medio,acessivel
+52,AMD Ryzen 7 2700X,x86,20MB,3.7,1450.00,Alto consumo;medio desempenho e alto investimento,inteligencia artificial,alto,medio,alto investimento
+53,Intel Core i7-8700K,x86,12MB,3.7,1900.00,Alto consumo;alto desempenho e custo acessivel,inteligencia artificial,alto,alto,acessivel
+54,AMD Ryzen 9 3900X,x86,70MB,3.8,2500.00,Alto consumo;alto desempenho e alto investimento,inteligencia artificial,alto,alto,alto investimento
+55,Intel Core i3-10100,x86,6MB,3.6,800.00,Ideal para tarefas basicas de edicao de video com baixo consumo de energia,edicao de video,Baixo,Baixo,Acessivel
+56,AMD Athlon 3000G,x86,5MB,3.5,750.00,Processador economico para edicoes simples com baixo investimento,edicao de video,Baixo,Baixo,Alto investimento
+57,Intel Core i5-10400,x86,12MB,2.9,1200.00,Bom desempenho para edicoes moderadas com baixo consumo,edicao de video,Baixo,Medio,Acessivel
+58,AMD Ryzen 5 3600,x86,32MB,3.6,1400.00,Otimo custo-beneficio para edicoes com bom desempenho,edicao de video,Baixo,Medio,Alto investimento
+59,Intel Core i7-10700K,x86,16MB,3.8,2000.00,Excelente para edicoes de video com alta performance,edicao de video,Baixo,Alto,Acessivel
+60,AMD Ryzen 7 3700X,x86,32MB,3.6,2200.00,Desempenho poderoso para tarefas intensivas de edicao,edicao de video,Baixo,Alto,Alto investimento
+61,Intel Core i3-10320,x86,8MB,3.8,900.00,Boa escolha para edicoes basicas com consumo medio,edicao de video,Medio,Baixo,Acessivel
+62,AMD Ryzen 3 3200G,x86,6MB,3.6,850.00,Processador acessivel para edicoes simples com medio consumo,edicao de video,Medio,Baixo,Alto investimento
+63,Intel Core i5-10500,x86,12MB,3.1,1300.00,Bom para edicoes moderadas com desempenho medio,edicao de video,Medio,Medio,Acessivel
+64,AMD Ryzen 5 5600X,x86,32MB,3.7,1500.00,Otimo desempenho para edicoes com consumo medio,edicao de video,Medio,Medio,Alto investimento
+65,Intel Core i7-11700,x86,16MB,2.5,2200.00,Alta performance para edicoes de video com consumo medio,edicao de video,Medio,Alto,Acessivel
+66,AMD Ryzen 7 5800X,x86,32MB,3.8,2400.00,Desempenho top para edicoes intensivas,edicao de video,Medio,Alto,Alto investimento
+67,Intel Core i5-10600,x86,12MB,3.3,1000.00,Desempenho moderado para edicoes com alto consumo,edicao de video,Alto,Baixo,Acessivel
+68,AMD Ryzen 5 3400G,x86,6MB,3.7,950.00,Edicoes simples com alto consumo de energia,edicao de video,Alto,Baixo,Alto investimento
+69,Intel Core i7-10700,x86,16MB,2.9,1800.00,Boa performance para edicoes com alto consumo,edicao de video,Alto,Medio,Acessivel
+70,AMD Ryzen 5 5600G,x86,16MB,3.9,1600.00,Desempenho ideal para edicoes com maior demanda,edicao de video,Alto,Medio,Alto investimento
+71,Intel Core i9-11900K,x86,16MB,3.5,3000.00,Processador de alto desempenho para edicoes avancadas,edicao de video,Alto,Alto,Acessivel
+72,AMD Ryzen 9 5900X,x86,64MB,3.7,3500.00,O melhor desempenho para edicao de video,edicao de video,Alto,Alto,Alto investimento
+73,Intel Core i3-10100,x86,6MB,3.6,800.00,Processador de baixo consumo e baixo desempenho ideal para tarefas basicas de modelagem 3D,modelagem 3D,baixo,baixo,acessivel
+74,AMD Athlon 3000G,x86,5MB,3.5,750.00,Adequado para modelagem 3D de entrada com alto investimento,modelagem 3D,baixo,baixo,alto investimento
+75,Intel Pentium Gold G6400,x86,4MB,4.0,750.00,Bom para pequenos projetos de modelagem 3D com orcamento restrito,modelagem 3D,baixo,medio,acessivel
+76,AMD Ryzen 3 3200G,x86,6MB,3.6,900.00,Um pouco mais de desempenho para modelagem 3D a baixo custo,modelagem 3D,baixo,medio,alto investimento
+77,Intel Core i5-10400,x86,12MB,2.9,1200.00,Otimio para iniciantes com um orcamento acessivel,modelagem 3D,baixo,alto,acessivel
+78,AMD Ryzen 5 3400G,x86,6MB,3.7,1000.00,Ideal para iniciantes e intermediarios em modelagem 3D,modelagem 3D,baixo,alto,alto investimento
+79,Intel Core i3-10100F,x86,6MB,3.6,900.00,Bom equilibrio entre custo e consumo para modelagem 3D,modelagem 3D,medio,baixo,acessivel
+80,AMD Ryzen 3 3100,x86,16MB,3.6,950.00,Adequado para projetos moderados de modelagem 3D,modelagem 3D,medio,baixo,alto investimento
+81,Intel Core i5-10400F,x86,12MB,2.9,1300.00,Oferece bom desempenho para tarefas complexas de modelagem 3D,modelagem 3D,medio,medio,acessivel
+82,AMD Ryzen 5 3600,x86,32MB,3.6,1500.00,Excelente para usuarios intermediarios com orcamento moderado,modelagem 3D,medio,medio,alto investimento
+83,Intel Core i7-10700,x86,16MB,2.9,2300.00,Perfeito para tarefas intensivas de modelagem 3D com custo acessivel,modelagem 3D,medio,alto,acessivel
+84,AMD Ryzen 7 3700X,x86,32MB,3.6,2400.00,Alta performance para projetos desafiadores de modelagem 3D,modelagem 3D,medio,alto,alto investimento
+85,Intel Core i5-11600K,x86,12MB,3.9,1400.00,Processador de alto desempenho e baixo custo de energia,modelagem 3D,alto,baixo,acessivel
+86,AMD Ryzen 5 5600X,x86,32MB,3.7,1600.00,Eficiente para modelagem 3D com uso intensivo de recursos,modelagem 3D,alto,baixo,alto investimento
+87,Intel Core i7-11700K,x86,16MB,3.6,2600.00,Desempenho robusto para projetos detalhados de modelagem 3D,modelagem 3D,alto,medio,acessivel
+88,AMD Ryzen 7 5800X,x86,32MB,3.8,2800.00,Ideal para tarefas complexas com alto desempenho,modelagem 3D,alto,medio,alto investimento
+89,Intel Core i9-11900K,x86,16MB,3.5,3500.00,Processador topo de linha para modelagem 3D avancada,modelagem 3D,alto,alto,acessivel
+90,AMD Ryzen 9 5900X,x86,64MB,3.7,3800.00,Maximo desempenho para profissionais de modelagem 3D,modelagem 3D,alto,alto,alto investimento
